@@ -1,0 +1,15 @@
+{
+  "name": "sync",
+  "version": "0.0.1",
+  "description": "",
+  "url": "",
+  "author": "Victor Godoy Poluceno <victorpoluceno@gmail.com>",
+  "dependencies": { 
+    "cradle": "0.6.3",
+    "klass": "1.2.2",
+    "js-yaml": "1.0.2"
+  },
+  "engines": { 
+    "node": ">=0.6.0"
+  }
+}

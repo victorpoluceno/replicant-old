@@ -1,0 +1,8 @@
+host: http://vpoluceno.iriscouch.com
+database: sync
+port: 5984
+username: admin
+password: TURIN$42$runner
+sources:
+    - product
+    - contact
